@@ -1,6 +1,6 @@
 # Sobre
 
-![Sansil.vs](./background3.png)
+![Sansil.vs](../thayna/profile-page.png)
 
 # RoodBit
 
