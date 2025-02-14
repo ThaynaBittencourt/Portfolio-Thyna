@@ -1,6 +1,6 @@
 # Sobre
 
-![Sansil.vs](../thayna/profile-page.png)
+![Sansil.vs](../Portf-lio-Thyna/thayna/profile-page.png)
 
 # RoodBit
 
