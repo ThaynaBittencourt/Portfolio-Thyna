@@ -4,5 +4,5 @@
 
 # RoodBit
 
-![Sansil.vs](./landig-page.png)
+![Sansil.vs](./landing-page.png)
 
